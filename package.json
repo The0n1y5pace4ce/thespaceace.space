@@ -1,0 +1,19 @@
+{
+  "name": "thespaceace.space",
+  "version": "1.0.9",
+  "description": "Official Website Of TheSpaceAce",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/The0n1y5pace4ce/thespaceace.space.git"
+  },
+  "author": "TheSpaceAce",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/The0n1y5pace4ce/thespaceace.space/issues"
+  },
+  "homepage": "https://thespaceace.space" 
+}

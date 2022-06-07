@@ -281,7 +281,13 @@ input[type=text], select {
     font-weight: bold;
     color: white;
 }
-
+.printerlive {
+    padding: 20px;
+    border: 1px solid blue;
+    background-color: #7d8bf5;
+    border-radius: 10px;
+    font: bold;
+}
 #return:hover {
     background-color: aquamarine;
     box-shadow: 3px 3px 5px grey;
@@ -291,4 +297,11 @@ input[type=text], select {
 
 footer {
     padding: 100px 0;
+}
+
+.printer-header-text {
+    font-size: larger;
+    font-weight: bold;
+    color: blanchedalmond;
+    text-align: center;
 }

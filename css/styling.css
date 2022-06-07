@@ -298,10 +298,3 @@ input[type=text], select {
 footer {
     padding: 100px 0;
 }
-
-.printer-header-text {
-    font-size: larger;
-    font-weight: bold;
-    color: blanchedalmond;
-    text-align: center;
-}

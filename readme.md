@@ -20,10 +20,9 @@
   <p align="center">
     Official Website Portfolio For TheSpaceAce
     <br />
-    <a href="https://github.com/The0n1y5pace4ce/thespaceace.space"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/The0n1y5pace4ce/thespaceace.space">View Demo</a>
+    <a href="https://www.thespaceace.space">View Demo</a>
     ·
     <a href="https://github.com/The0n1y5pace4ce/thespaceace.space/issues">Report Bug</a>
     ·
@@ -57,8 +56,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][img/screenshot.png]](https://www.thespaceace.space)
+[![Product Name Screen Shot][product-screenshot]](https://thespaceace.space)
 
 
 

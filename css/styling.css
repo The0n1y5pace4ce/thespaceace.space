@@ -298,3 +298,7 @@ input[type=text], select {
 footer {
     padding: 100px 0;
 }
+
+.printer-feed:link {
+    color: white;
+}

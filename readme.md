@@ -56,7 +56,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-[![Product Name Screen Shot][product-screenshot]](https://thespaceace.space)
+[![https://github.com/the0n1y5pace4ce/thespaceace.space/img/screenshot.png][product-screenshot]](https://thespaceace.space)
 
 
 
@@ -135,15 +135,6 @@ Your Name - [@theonlyspaceace](https://twitter.com/theonlyspaceace) - spaceaceco
 Project Link: [https://github.com/The0n1y5pace4ce/thespaceace.space](https://github.com/The0n1y5pace4ce/thespaceace.space)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* []()
-* []()
-* []()
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 

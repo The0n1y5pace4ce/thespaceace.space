@@ -1,9 +1,10 @@
 <div id="top"></div>
 
-[![Forks][forks-shield]][https://www.github.com/The0n1y5pace4ce/thespaceace.space/forks]
-[![Stargazers][stars-shield]][https://www.github.com/The0n1y5pace4ce/thespaceace.space/stars]
-[![Issues][issues-shield]][https://www.github.com/The0n1y5pace4ce/thespaceace.space/issues]
-[![MIT License][license-shield]][https://www.github.com/The0n1y5pace4ce/thespaceace.space/license]
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
 
 
 
@@ -14,10 +15,10 @@
     <img src="img/icon.jpeg" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">TheSpaceAce Website</h3>
 
   <p align="center">
-    project_description
+    Official Website Portfolio For TheSpaceAce
     <br />
     <a href="https://github.com/The0n1y5pace4ce/thespaceace.space"><strong>Explore the docs »</strong></a>
     <br />
@@ -57,9 +58,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][img/screenshot]](https://www.thespaceace.space)
+[![Product Name Screen Shot][img/screenshot.png]](https://www.thespaceace.space)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `Th0n1y5pace4ce`, `thespaceace.space`, `theonlyspaceace`, `spaceacecontact@gmail.com`, `spaceacecontact@gmail.com`, `Thespaceace.space`, `Website portfolio for TheSpaceAce`
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -67,8 +68,12 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
+* [HTML5](https://www.developer.mozilla.org/en-US/docs/web/HTML)
+* [CSS](https://www.developer.mozilla.org/en-US/docs/CSS)
 * [Bootstrap](https://getbootstrap.com)
 * [JQuery](https://jquery.com)
+* [Font-Awesome](https://fontawesome.com)
+* [Google Fonts](https://fonts.google.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -83,26 +88,13 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+
+Visual Studio Code or an IDE of your choice
+
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+Upload to a github repository, connect the repository to netlify (https://netlify.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -140,9 +132,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Your Name - [@theonlyspaceace](https://twitter.com/theonlyspaceace) - spaceacecontact@gmail.com@gmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/The0n1y5pace4ce/thespaceace.space](https://github.com/The0n1y5pace4ce/thespaceace.space)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -161,16 +153,14 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
+[contributors-shield]: https://img.shields.io/github/contributors/The0n1y5pace4ce/thespaceace.space.svg?style=for-the-badge
+[contributors-url]: https://github.com/The0n1y5pace4ce/thespaceace.space/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/The0n1y5pace4ce/thespaceace.space.svg?style=for-the-badge
+[forks-url]: https://github.com/The0n1y5pace4ce/thespaceace.space/network/members
+[stars-shield]: https://img.shields.io/github/stars/The0n1y5pace4ce/thespaceace.space.svg?style=for-the-badge
+[stars-url]: https://github.com/The0n1y5pace4ce/thespaceace.space/stargazers
+[issues-shield]: https://img.shields.io/github/issues/The0n1y5pace4ce/thespaceace.space.svg?style=for-the-badge
+[issues-url]: https://github.com/The0n1y5pace4ce/thespaceace.space/issues
+[license-shield]: https://img.shields.io/github/license/The0n1y5pace4ce/thespaceace.space.svg?style=for-the-badge
+[license-url]: https://github.com/The0n1y5pace4ce/thespaceace.space/blob/master/LICENSE.txt
 [product-screenshot]: images/screenshot.png

@@ -56,7 +56,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-[![https://github.com/the0n1y5pace4ce/thespaceace.space/img/screenshot.png][product-screenshot]](https://thespaceace.space)
+[![screenshot][product-screenshot]](https://thespaceace.space)
 
 
 
@@ -152,4 +152,4 @@ Project Link: [https://github.com/The0n1y5pace4ce/thespaceace.space](https://git
 [issues-url]: https://github.com/The0n1y5pace4ce/thespaceace.space/issues
 [license-shield]: https://img.shields.io/github/license/The0n1y5pace4ce/thespaceace.space.svg?style=for-the-badge
 [license-url]: https://github.com/The0n1y5pace4ce/thespaceace.space/blob/master/LICENSE.txt
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: img/screenshot.png

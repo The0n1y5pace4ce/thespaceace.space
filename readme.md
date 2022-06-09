@@ -130,7 +130,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@theonlyspaceace](https://twitter.com/theonlyspaceace) - spaceacecontact@gmail.com@gmail.com
+Your Name - [@theonlyspaceace](https://twitter.com/theonlyspaceace) - contact@spaceacecontact@gmail.com
 
 Project Link: [https://github.com/The0n1y5pace4ce/thespaceace.space](https://github.com/The0n1y5pace4ce/thespaceace.space)
 

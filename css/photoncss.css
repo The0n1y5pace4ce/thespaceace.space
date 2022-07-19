@@ -1,0 +1,42 @@
+body {
+    animation: backround 30s ease-in;
+    animation-iteration-count: infinite;
+    transition: fadeinl, 1s;
+    text-align: center;
+  }
+  @keyframes backround {
+    0% {background-color: white;}
+    50% {background-color: #C691F0;}
+    100% {background-color: white;}
+  }
+  h1 {
+    font-family: Roboto, sans-serif;
+    font-weight: bolder;
+    font-size: 65px;
+    letter-spacing: 3px;
+    text-align: center;
+    padding-top: 12%;
+    overflow: auto;
+    margin: auto;
+  }
+  .b1 {
+    background-color: #0F0F0F;
+    border: none;
+    border-radius: 8px;
+    text-decoration: none;
+    color: white;
+    padding: 10px 15px;
+    text-align: center;
+    display: inline-block;
+    font-size: 14px;
+    font-family: Roboto, sans-serif;
+    top: 53%;
+    left: 42%;
+    overflow: auto;
+    margin: auto;
+    transition: ease-in-out 0.3s;
+  }
+  a:hover {
+    color: #d1aaf0;
+    padding: 11.5px 15px;
+  }

@@ -27,55 +27,19 @@
 
     </head>
     <body>
-        <!--Navigation-->
-        <a id="menu-toggle" href="#" class="btn btn-dark btn-lg toggle"><i class="fa fa-bars"></i></a>
-        <nav id="sidebar-wrapper">
-            <ul class="sidebar-nav">
-                <a id="menu-close" href="#" class="btn btn-light btn-lg pull-right toggle"><i class="fa fa-times"></i></a>
-                <li class="sidebar-brand">
-                    <a href="/">Photon</a>
-            </ul>
-        </nav>
+        <!-- navigation-->
+        <div class="nav">
+            <a class="#title">Home</a>
+            <a class="/docs">Documentation</a>
+        </div>
         <!--title-->
-
         <section class="title">
             <center><h1 class="title-text">Photon, The Last Moderation Bot You Need.</h1></center>
         </section>
         <!--Info section-->
         <section class="info">
-            <h3 class="info-text">The perfect moderation bot for all servers, packed with features for you.</h3>
+            <center><h3 class="info-text">The perfect moderation bot for all servers, packed with features for you.</h3></center>
         </section>
 
-        <!-- Custom Theme JavaScript -->
-    <script>
-        // Closes the sidebar menu
-        $("#menu-close").click(function(e) {
-            e.preventDefault();
-            $("#sidebar-wrapper").toggleClass("active");
-        });
-    
-        // Opens the sidebar menu
-        $("#menu-toggle").click(function(e) {
-            e.preventDefault();
-            $("#sidebar-wrapper").toggleClass("active");
-        });
-    
-        // Scrolls to the selected menu item on the page
-        $(function() {
-            $('a[href*=#]:not([href=#])').click(function() {
-                if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') || location.hostname == this.hostname) {
-    
-                    var target = $(this.hash);
-                    target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
-                    if (target.length) {
-                        $('html,body').animate({
-                            scrollTop: target.offset().top
-                        }, 1000);
-                        return false;
-                    }
-                }
-            });
-        });
-        </script>
     </body>
 </html>

@@ -27,7 +27,7 @@
             }
 
             async function chatBotRequest(response) {
-                axios.get(`${"http://api.brainshop.ai/get?bid=170084&key=evIAzCEgq6AyjjEn&uid"}=1&msg=${encodeURIComponent(response)}`)
+                axios.get(`${"https://api.brainshop.ai/get?bid=170084&key=evIAzCEgq6AyjjEn&uid"}=1&msg=${encodeURIComponent(response)}`)
                     .then((res) => {
                 document.getElementById('result').innerHTML = res.data.cnt
                     })

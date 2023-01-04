@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="">
+        <meta name="author" content="">
+        <title>ChatBot</title>
+        <script src="./js/chatbot.js"></script>
+        <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+        <script src='https://code.jquery.com/jquery-2.1.3.min.js'></script>
+        <script src="http://brainshop.ai/api/aco.js?bid=170215&key=5OBkdNxJw0CoJe49"></script>
+    </head>
+    <body>
+        <form name="myform" action="" method="GET">
+            Enter something in the box: <br>
+            <input type="text" name="inputbox" value=""><P>
+            <INPUT type="button" name="button" value="Click" onClick="testResults(this.form)">
+        </form>
+        <label id="result">
+            Result will show here
+        </label>
+        <button onClick="changeText()">change text</button>
+        <script>
+            function testResults(form) {
+            const TestVar = form.inputbox.value;
+            chatBotRequest(TestVar)
+            }
+
+            async function chatBotRequest(response) {
+                axios.get(`${"https://api.brainshop.ai/get?bid=170215&key=5OBkdNxJw0CoJe49&uid"}=1&msg=${encodeURIComponent(response)}`)
+                    .then((res) => {
+                document.getElementById('result').innerHTML = res.data.cnt
+                    })
+            }
+        </script>
+    </body>
+
+</html>
